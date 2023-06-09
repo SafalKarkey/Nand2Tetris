@@ -1,3 +1,4 @@
 demo
 **/*.tst
 **/*.cmp
+**/*.out
